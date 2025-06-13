@@ -4,7 +4,7 @@
  and express your intent for a conversation or future collaboration. 
  Here is a bit about my experience - so you can use it in your message.
 
-Software Developer at Mouser Electronics with over 2 years of experience specializing in C#, .NET technologies, Java Spring Boot, and
+Software Developer with over 2 years of experience specializing in C#, .NET technologies, Java Spring Boot, and
 React. Skilled in developing scalable applications and optimizing system performance. 
  
  Keep the tone professional yet approachable. 
